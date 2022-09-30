@@ -46,7 +46,7 @@ Kembali ke Debian kita akan cek ip address kita dengan masukkan command "ip a". 
 <br>
 
 - Langkah 7
-![alt text](ssh-8.png)
+![alt text](ssh-8.PNG)
 Masukkan ip address sesuai inet, yaitu 192.168.10.1(sesuikan ip address milik anda) dengan port 22. Lalu klik open.
 
 <br>
